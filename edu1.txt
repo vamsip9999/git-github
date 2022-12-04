@@ -1,2 +1,3 @@
 first file, modified1
 added from 
+new line
